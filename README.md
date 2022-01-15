@@ -7,13 +7,15 @@ The objective of the capstone project was a simulation of a professional pentest
 - Use Wireshark to analyze and find malicious traffic on the wire.
 - Create a team presentation with the assessment, analysis and hardening of the vulnerable system.
 
-Read through the [Red Team](https://github.com/), [Blue Team](https://github.com/0) and [Network Analysis](https://github.com/) files to the see the specific project questions, data points and process which was used to created the Capstone presentation.
+Read through the [Red Team](https://github.com/ninjabwilson/Capstone/blob/master/RedTeam.md), [Blue Team](https://github.com/ninjabwilson/Capstone/blob/master/BlueTeam.md) and [Network Analysis](https://github.com/ninjabwilson/Capstone/blob/master/NetworkAnalysis.md) files to the see the specific project questions, data points and process which was used to created the Capstone presentation.
 
 View the Capstone Presentation [here](https://docs.google.com/presentation/d/16PncHGOgW-B50AEjTjIpxZLclRaY0Yq_/edit?usp=sharing&ouid=109239060046627436186&rtpof=true&sd=true). 
+
 **Note:** *This capstone was created with a team of other students.* 
 
 *Presentation Details*
-I and three other students were assigned as a team to bring our individual findings together to create a group presentation on the last day of our Cybersecurity Bootcamp.
+
+I was assigned with a team to bring our individual findings together to create a group presentation on the last day of our Cybersecurity Bootcamp.
 
 We worked together to practice digital collaboration, as classrooms were unavailable at this time due to Covid-19.
 I shared and analyzed the data I found with the team during our individual Red Team exploitation and Blue Team response phases of the project.
